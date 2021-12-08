@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+#title {
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title_list {
+    color: blue; 
+}
+
+.title_list:hover {
+    background-color: rgb(34, 105, 34, .3);
+}
+
+.recipe_image {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+ }
+
+ .recipe_title {
+     text-align: center;
+ }
